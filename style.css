@@ -60,11 +60,7 @@ body {
     }
   }
 
-  .footer {
-    background-color: #80fee3;
-    padding: 10px;
-    text-align: center;
-  }
+
 
   img {
     float: right;
@@ -81,7 +77,18 @@ body {
   columns: 3;
 }
 
-  .footer p {
-    color: red;
-   }
+
+
+.footer  {
+    background-color: #9980fe;
+    clear: both;
+    height: 50px;
+}
+
+.footer p {
+color: aliceblue;
+text-align: center;
+width:100%;
+position:absolute
+}
 
