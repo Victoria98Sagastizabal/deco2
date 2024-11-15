@@ -70,7 +70,9 @@ body {
   clear:inline-end;
  }
 
-
+ .container {
+  columns: 3;
+}
 
   .footer p {
     color: red;
