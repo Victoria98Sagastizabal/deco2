@@ -40,6 +40,10 @@ body {
     width: 50%;
   }
 
+  .column.middle p{
+    display: none;
+  }
+
   .row::after {
     content: "";
     display: table;
@@ -56,4 +60,10 @@ body {
     background-color: #80fee3;
     padding: 10px;
     text-align: center;
+ 
   }
+
+  .footer p {
+    color: red;
+   }
+
