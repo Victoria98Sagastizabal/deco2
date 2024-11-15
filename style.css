@@ -27,6 +27,13 @@ body {
     text-decoration: none;
   }
 
+  #navbar2 {
+    position: sticky;
+    top: 0;
+    overflow: hidden;
+    background-color: #da5aa7;
+}
+
   .column {
     float: left;
     padding: 10px;
