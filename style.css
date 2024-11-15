@@ -85,6 +85,18 @@ body {
     height: 50px;
 }
 
+.cuadrato {
+  width: 150px;           
+  height: 150px;         
+  background: rgb(0, 255, 89);       
+  border: 1px solid #5eeb46;
+  float: right;
+  
+}
+
+
+
+
 .footer p {
 color: aliceblue;
 text-align: center;
