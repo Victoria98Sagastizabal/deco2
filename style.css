@@ -61,10 +61,14 @@ body {
 
   img {
     float: right;
-     width: 10%;
+     width: 9%;
      margin-right: 20px;     margin-bottom: 10px;
+     clear:inline-end;
   }
 
+ p.{
+  clear:inline-end;
+ }
 
 
 
