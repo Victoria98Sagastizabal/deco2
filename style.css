@@ -28,7 +28,7 @@ body {
   }
 
   #navbar2 {
-    position: sticky;
+    position: fixed;
     top: 0;
     overflow: hidden;
     background-color: #da5aa7;
