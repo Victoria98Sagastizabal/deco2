@@ -106,7 +106,18 @@ body {
   width: 100px;           
   height: 100px;         
   background: rgb(211, 64, 76);     
+}
 
+.r1{
+  text-align: left;
+  color: #6452ea;
+  font-size: 7rem;
+}
+
+.r2{
+  text-align: left;
+  color: #1c0e87;
+  font-size: 7em;
 }
 
 
