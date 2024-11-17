@@ -102,6 +102,12 @@ body {
   padding: 20px;
 }
 
+.cuadrado {
+  width: 100px;           
+  height: 100px;         
+  background: rgb(211, 64, 76);     
+
+}
 
 
 
