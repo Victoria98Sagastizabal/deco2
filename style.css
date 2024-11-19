@@ -86,6 +86,7 @@ body {
     background-color: #9980fe;
     clear: both;
     height: 50px;
+
 }
 
 .cuadrato {
@@ -126,9 +127,13 @@ body {
 
 
 .footer p {
-  color: aliceblue;
-  text-align: center;
+  color: rgb(22, 90, 149);
+  text-align: left;
+  position: fixed;
+  left: 0;
+  bottom: 0;
   width:100%;
-  position:absolute
+  background-color: #5eeb46;
+  padding: 40px;
   }
 
