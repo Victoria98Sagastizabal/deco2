@@ -124,6 +124,9 @@ body {
   font-size: 7em;
 }
 
+.fullscreen{
+width: 100%;
+}
 
 
 .footer p {
