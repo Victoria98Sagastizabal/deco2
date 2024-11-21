@@ -95,6 +95,7 @@ body {
   background: rgb(0, 255, 89);       
   border: 1px solid #5eeb46;
   float: right;
+  position: absolute;
 }
 
 
